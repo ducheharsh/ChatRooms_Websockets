@@ -1,6 +1,6 @@
-# ChatRooms_Websockets
+# ChatRooms
 
-ChatRooms_Websockets is an extensible and scalable chat application that leverages WebSockets for real-time communication. Whether you're building a public chat room, a private messaging feature, or any other chat-like functionality, this project provides a solid foundation.
+ChatRooms is an extensible and scalable chat application that leverages WebSockets for real-time communication. Whether you're building a public chat room, a private messaging feature, or any other chat-like functionality, this project provides a solid foundation.
 
 
 https://github.com/user-attachments/assets/089f4fe0-8d85-481a-8af8-f7b984190f04
